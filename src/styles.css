@@ -1,1 +1,5 @@
-/* You can add global styles to this file, and also import other style files */
+.orange-de{
+    background: linear-gradient(to top right, #ff5263 0%, #ff7381 35%, #fcbd01 100%) !important;
+    border-color:linear-gradient(to top right, #ff5263 0%, #ff7381 35%, #fcbd01 100%) !important ;
+    border-inline-color:linear-gradient(to top right, #ff5263 0%, #ff7381 35%, #fcbd01 100%) !important ;
+}
